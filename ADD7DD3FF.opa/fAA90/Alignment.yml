@@ -1,0 +1,30 @@
+segment_sources:
+  IFC3354D4:
+    type: origin_type
+    relation: translation
+    language: en
+  I8E857E58:
+    type: origin_type
+    relation: translation
+    language: fr
+  I702C4A0E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e69d4c734e274ba6ad8fcdd00fec3acf:
+    IFC3354D4: eeaed2ee47564065919d3c83bbff164d
+    I8E857E58: 2ba6c998767e40d8b0110544eeb3fb0b
+    I702C4A0E: 4e03626a2baf478e91e88d9f58302ac3
+  88b71f748ec94d1aa025cade5d95eaa0:
+    IFC3354D4: 747b6c05c83647beb05c59d5206a797c
+    I8E857E58: a8b5fd68646f4719bf10c9bf89b740c9
+    I702C4A0E: 1c9fa537e29e4cf3a24518ca559b60bc
+  5b97c7645ef34f2fa44ec58368db1240:
+    IFC3354D4: bdadea74ffa240979e630ccb188d419c
+    I8E857E58: de904f91bbe4492f8f033ecf6721dbf2
+    I702C4A0E: 740a9de67d7b469981221277ccc0b695
+  be60efd7210c46c690cea0d780f72098:
+    IFC3354D4: 90eb418851e34141bf614304dd120f56
+    I8E857E58: 3c6e58bf8d76465d895ca5fec9a422a8
+    I702C4A0E: 68cd832fe508472faccb7a2cb388b973

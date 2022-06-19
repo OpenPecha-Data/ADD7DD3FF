@@ -1,0 +1,19 @@
+segment_sources:
+  IFC3354D4:
+    type: origin_type
+    relation: translation
+    language: en
+  I702C4A0E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  126e603df20e470eb02ce4470d4891a3:
+    IFC3354D4: d93c9433cd5d41608f2b1c1f34f2749b
+    I702C4A0E: a23085a8d42c4393a716546c23c6bd3d
+  8f4688805c3a41a4b21c87de87784e20:
+    IFC3354D4: f3d9cc90210d4d93a03fe3596d0039dc
+    I702C4A0E: 446e1e92ebc7486a9e923444fe7ac839
+  583f30d0f4fd48f3bdd79fc44a3ccd51:
+    IFC3354D4: 983932c662ab4ddbbcd7ce93774a96a9
+    I702C4A0E: bbec27cdd1314f23af2c9c221abd6c15
